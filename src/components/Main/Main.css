@@ -1,0 +1,25 @@
+/* Main container styling */
+.main-container {
+    background-image: url('../../assets/bg.jpg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Title styling */
+.main-container h1 {
+    text-align: center;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+/* Paragraph styling */
+.main-container p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #dfdfdf;
+    text-align: center;
+}
+  
